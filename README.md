@@ -66,8 +66,10 @@ Student submits application
 
 ### Power Automate Workflow
 
+Notify Student on Decision
 ![Power Automate Flow](screenshots/notify-students-power-automate-flow.png)
 
+Notify Staff on New Request
 ![Power Automate Flow](screenshots/notify-staff-power-automate-flow.png)
 
 ## Purpose
