@@ -66,7 +66,9 @@ Student submits application
 
 ### Power Automate Workflow
 
-![Power Automate Flow](screenshots/power-automate-flow.png)
+![Power Automate Flow](screenshots/notify-students-power-automate-flow.png)
+
+![Power Automate Flow](screenshots/notify-staff-power-automate-flow.png)
 
 ## Purpose
 
